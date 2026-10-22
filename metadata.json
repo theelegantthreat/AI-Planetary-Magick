@@ -1,0 +1,6 @@
+{
+  "name": "AI Planetary Magick",
+  "description": "Ancient Chaldean planetary hours calculator, magical activity planner, journal, and AI astrological guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
